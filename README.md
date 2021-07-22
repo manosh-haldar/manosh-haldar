@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manosh-haldar
-- 👀 I’m interested in technology
+- 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on data visuilization projects
 - 📫 Reach me on https://www.linkedin.com/in/manosh-chandra-haldar/ 
 
 <!---
